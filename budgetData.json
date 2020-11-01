@@ -1,0 +1,5 @@
+{
+    "title": ["Eat", "Rent", "Groceries", "Subscriptions", "Utilities", "Internet", "Gas", "Maintenance"],
+    "budget": [10, 20, 30, 60, 150, 20, 90, 150]
+
+}
